@@ -1,0 +1,63 @@
+PrinterLogicov portal za samostalnu instalaciju pisača pruža efikasno i sigurno rješenje za administratore sustava u upravljanju i implementaciji pisača unutar organizacije. Korištenjem ovog portala, krajnji korisnici mogu samostalno i jednostavno instalirati pisače putem pristupa specijaliziranoj web-stranici. Na toj stranici korisnicima je prikazan popis dostupnih pisača, zajedno s njihovim lokacijama na karti, čime se izbjegava konfuzija i pojednostavljuje proces pronalaženja i odabira odgovarajućeg pisača​ (PrinterLogic).
+
+Implementacijom ovog sustava značajno se smanjuje opterećenje IT podrške, jer krajnji korisnici više ne trebaju tražiti pomoć pri svakom postavljanju pisača. Statistike pokazuju da je u organizacijama koje su usvojile ovu tehnologiju broj poziva službi za pomoć povezanih s pisačima smanjen do 90%. Ovo ne samo da štedi vrijeme IT timova već i smanjuje troškove operativnog poslovanja te povećava učinkovitost cjelokupnog sustava podrške​ (PrinterLogic)​ (PrinterLogic).
+
+Za administratore, PrinterLogicov portal nudi centralizirano sučelje za upravljanje pisačima, što olakšava nadzor i kontrolu nad instalacijama pisača širom organizacije. Integrirano upravljačko sučelje omogućuje pregled i upravljanje pisačima s jedne centralne lokacije, bez obzira na to gdje se u organizaciji nalaze. Sustav se također može integrirati s Active Directoryjem, pružajući administratorima preciznu kontrolu nad pristupom pisačima i dozvolama za različite grupe korisnika​ (PrinterLogic).
+
+Ova centralizirana kontrola omogućuje administratorima da učinkovito upravljaju printerima, od promjene postavki za pojedinačne uređaje do cjelokupne flote pisača. Zahvaljujući ovoj funkcionalnosti, administratori mogu osigurati da samo ovlašteni korisnici mogu vidjeti i koristiti određene pisače, što povećava sigurnost i smanjuje mogućnost pogrešaka korisnika pri odabiru pisača. Krajnji rezultat je optimizirano upravljanje pisačima koje omogućuje brže reakcije i veću fleksibilnost unutar organizacije​ (PrinterLogic).
+
+Sveukupno, PrinterLogicov sustav za samostalnu instalaciju pisača predstavlja inovativan pristup upravljanju pisačima koji kombinira jednostavnost korištenja s jakim administrativnim kontrolama. Ova tehnologija omogućuje veću autonomiju korisnicima, dok istovremeno smanjuje administrativne troškove i povećava učinkovitost poslovanja. Za više informacija posjetite PrinterLogicov Self-Service Portal​ (PrinterLogic)​ (PrinterLogic).
+
+
+
+2. prijevod
+
+PrinterLogicov portal za samostalnu instalaciju pisača predstavlja moćno rješenje za sistemske administratore koji žele optimizirati upravljanje pisačima u svojoj organizaciji. Ovaj alat omogućuje korisnicima da samostalno instaliraju pisače putem jednostavnog web sučelja koje prikazuje sve dostupne pisače, uključujući i njihovu lokaciju na tlocrtu ureda. Ovaj pristup ne samo da smanjuje potrebu za IT podrškom, već također značajno smanjuje broj poziva službi za pomoć vezanih uz instalaciju pisača.
+
+Portal omogućuje centralizirano upravljanje svim pisačima unutar organizacije kroz integriranu konzolu za upravljanje. Sistemskim administratorima omogućuje potpunu kontrolu nad postavkama i pristupima pisača, uključujući upravljanje pravima pristupa putem Active Directory integracije. Time se osigurava da samo ovlašteni korisnici mogu pristupiti određenim pisačima, što povećava sigurnost i efikasnost unutar IT infrastrukture.
+
+Jedna od ključnih prednosti ovog rješenja je jednostavnost upotrebe za krajnje korisnike, što smanjuje potrebu za tehničkom podrškom i omogućuje bržu prilagodbu novim zaposlenicima ili korisnicima u različitim uredskim lokacijama. Osim toga, administratorima je omogućeno da brzo i jednostavno upravljaju velikim brojem pisača putem jedinstvene platforme, čime se značajno smanjuje administrativno opterećenje.
+
+Implementacija PrinterLogicovog samoposlužnog portala rezultirala je znatnim smanjenjem broja poziva službi za pomoć u mnogim organizacijama, a također je dokazano da smanjuje operativne troškove. Ovo rješenje idealno je za organizacije koje traže način da povećaju učinkovitost, sigurnost i fleksibilnost u upravljanju pisačima, bez potrebe za stalnom IT intervencijom.
+
+U konačnici, PrinterLogicov portal nudi sistemskim administratorima jednostavno i učinkovito rješenje za optimizaciju upravljanja pisačima, što doprinosi boljoj organizaciji i većoj produktivnosti unutar tvrtke.
+
+
+
+Claude prijevod...
+
+Here's the translation of the text into Croatian:
+
+Samostalna instalacija pisača, ključna značajka PrinterLogic softvera, revolucionira način na koji organizacije upravljaju svojom infrastrukturom za ispis. Ovo inovativno rješenje omogućuje krajnjim korisnicima da sami jednostavno instaliraju pisače, bez potrebe za administratorskim pravima ili složenim tehničkim znanjem. Pružanjem korisničkog sučelja prilagođenog korisniku, zaposlenici mogu brzo locirati i instalirati potrebne pisače, smanjujući opterećenje timova za IT podršku i minimizirajući vrijeme prekida rada.
+
+Portal za samostalnu uslugu koji nudi PrinterLogic predstavlja korisnicima intuitivnu kartu ili tlocrt njihovog ureda, omogućujući im da vizualno identificiraju i odaberu željeni pisač. Nakon odabira pisača, proces instalacije je automatiziran, konfigurira sve potrebne upravljačke programe i postavke bez intervencije korisnika. Ovaj pojednostavljeni pristup ne samo da štedi vrijeme, već i smanjuje mogućnost pogrešaka koje se često javljaju tijekom ručnog postavljanja pisača.
+
+Jedna od glavnih prednosti PrinterLogic-ove samostalne instalacije je njezina sposobnost rada na različitim operativnim sustavima i mrežnim okruženjima. Bez obzira koriste li korisnici Windows, Mac ili čak mobilne uređaje, mogu pristupiti portalu i jednostavno instalirati pisače. Ova fleksibilnost je posebno vrijedna u današnjim raznolikim i često udaljenim radnim okruženjima, osiguravajući da zaposlenici mogu brzo postaviti mogućnosti ispisa bez obzira na njihovu lokaciju ili uređaj.
+
+Štoviše, značajka samostalne usluge besprijekorno se integrira s PrinterLogic-ovom centraliziranom upravljačkom konzolom, omogućujući IT administratorima održavanje kontrole i nadzora. Administratori mogu definirati koji su pisači dostupni određenim korisnicima ili grupama, upravljati ažuriranjima upravljačkih programa i pratiti korištenje pisača - sve dok korisnicima omogućuju sposobnost rješavanja vlastitih potreba za ispisom. Ova ravnoteža osnaživanja korisnika i administrativne kontrole čini PrinterLogic-ovu samostalnu instalaciju pisača učinkovitim i efektivnim rješenjem za moderne organizacije koje žele pojednostaviti svoje procese upravljanja ispisom.
+
+
+
+
+
+
+**Zero Trust**  
+PrinterLogic koristi Zero Trust model koji dopušta pristup mrežnim resursima samo nakon stroge autentifikacije, smanjujući rizik od neovlaštenog pristupa i unutarnjih prijetnji.
+
+**PrintNightmare**  
+PrinterLogic eliminira potrebu za Windows Print Spooler-om, smanjujući rizik od PrintNightmare ranjivosti i osiguravajući sigurno ispisno okruženje.
+
+**Secure Release Printing**  
+Secure Release Printing osigurava da se ispisni zadaci oslobađaju samo kad je korisnik fizički prisutan kod pisača, smanjujući rizik od curenja informacija.
+
+**Off-Network Printing**  
+Off-Network Printing omogućuje siguran ispis izvan glavne mreže, zadržavajući visoke sigurnosne standarde i štiteći podatke.
+
+**Mobile Printing**  
+Sigurno mobilno ispisivanje omogućuje korisnicima ispis s bilo kojeg uređaja uz potpunu kontrolu i pregled za administratore.
+
+**Secure Print Management**  
+PrinterLogic nudi centralizirano upravljanje ispisom, osiguravajući dosljednu primjenu sigurnosnih protokola i smanjenje rizika od zloupotrebe.
+
+
+PrinterLogic SaaS rješenje osigurava najvišu razinu sigurnosti podataka, što potvrđuje i njihova **SOC 2 Type 2** certifikacija. Ovaj standard osigurava da su svi procesi vezani za sigurnost, dostupnost, integritet i povjerljivost podataka strogo kontrolirani i provjereni. S PrinterLogicom, možete biti sigurni da vaša organizacija koristi rješenje koje zadovoljava najstrože industrijske standarde za zaštitu osjetljivih informacija i upravljanje rizicima.
